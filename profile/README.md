@@ -1,0 +1,1 @@
+**MLS Tidbits** site is a collection of useful tidbits relating to Linux, Open Source, Consumer Electronics, and more. It is designed to be a quick reference for mostly new comers to the world of Linux and Open Source.
